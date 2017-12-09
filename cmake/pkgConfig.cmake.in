@@ -1,1 +1,2 @@
 include(${CMAKE_CURRENT_LIST_DIR}/@PROJECT_NAME@Targets.cmake)
+set(TinyXML_LIBRARIES TinyXML::tinyxml)
